@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img aling="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img aling="right" alt="coding" width="400" src="codingirl.gif">
 - 🌱 I’m currently learning **frontend and backend development using HTML, CSS, Javascript and imam also learning python languge**
 
 - 💬 Ask me about **Web development and dsa**
